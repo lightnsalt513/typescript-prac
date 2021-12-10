@@ -1,0 +1,2 @@
+# typescript-prac
+learn TypeScript
